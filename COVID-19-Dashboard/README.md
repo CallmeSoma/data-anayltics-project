@@ -38,3 +38,7 @@ The dashboard explores COVID-19 trends using interactive visualizations and filt
 ## Project Outcome
 
 This project strengthened my skills in Power BI, data cleaning, data transformation, DAX, and data visualization while improving my ability to communicate analytical findings through an interactive dashboard.
+
+## Dashboard Preview
+
+![COVID-19 Dashboard](covid.png)
