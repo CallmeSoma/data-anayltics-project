@@ -1,2 +1,3 @@
-# data-anayltics-project
-Data Analytical projects- analysis, visualization and insights.
+# Data Analytics Project
+
+Data analytics projects focused on analysis, visualization, and insights.
